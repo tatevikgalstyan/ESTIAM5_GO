@@ -11,7 +11,7 @@ Page pays on a les données sur pays possibilité de modifier ces donnes, ajoute
 
 ## EndPoint 
 ***
-<a GET /api/continent ></a>
+* [Technologie name]GET /api/continent 
 
 GET /api/pays/:id
 
