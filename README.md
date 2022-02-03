@@ -7,3 +7,7 @@ On peut mettre mis a jour en modiffient ex. population, PIB , nom capital et ég
 Page accueil : Liste pays par continent, possibilité de choisir un pays cela redirige page pays
 Page pays on a les données sur pays possibilité de modifier ces donnes, ajouter données manquantes.
 
+
+
+
+## Authors
