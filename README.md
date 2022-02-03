@@ -11,13 +11,13 @@ Page pays on a les données sur pays possibilité de modifier ces donnes, ajoute
 
 ## EndPoint 
 ***
-* [Technologie name]GET /api/continent 
+* GET /api/continent 
 
-GET /api/pays/:id
+* GET /api/pays/:id
 
-POST /api/pays
+* POST /api/pays
 
-POST /api/pays/:id 
+* POST /api/pays/:id 
 
 
 ## Authors
