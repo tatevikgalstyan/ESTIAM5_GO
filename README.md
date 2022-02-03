@@ -1,5 +1,6 @@
 # ESTIAM5_GO
 Titre "Les pays du monde"
+***
 
 On souhaite crée une api où on peut trouver les informations concernant de tous les pays.
 Comme sur quelle continent se trouve t'il, le monnaie utilisé, langue officielle et langue nationale, population, surface, pays frontaliers, les rivières, les lacs, Indicatif téléphonique, PIB, salaire moyenne.  
@@ -11,7 +12,11 @@ Page pays on a les données sur pays possibilité de modifier ces donnes, ajoute
 ## EndPoint 
 GET /api/continent
 
-GET /api/pays
+GET /api/pays/:id
+
+POST /api/pays
+
+POST /api/pays/:id 
 
 
 ## Authors
