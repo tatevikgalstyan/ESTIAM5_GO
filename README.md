@@ -10,9 +10,9 @@ On choisi le hôtel ensuit on reserve.
 
 Page connection/authentication: Utilisateur se connecte ou s'inscrit 
 
-Page accueil : Liste pays a visité proposés par agent de voyage, possibilité de choisir un pays cela redirige page Hôtels
+Page accueil : Liste pays a visité proposés par agent de voyage, possibilité de choisir un pays cela redirige vers page Hôtels
  
-Page hôtels on a les données sur pays possibilité de modifier ces donnes, ajouter données manquantele nom de hôtel , adresse, description.
+Page hôtels on a  nom de hôtel , adresse, description.
 
 
 
