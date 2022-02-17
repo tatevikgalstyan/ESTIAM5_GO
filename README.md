@@ -1,29 +1,41 @@
 # ESTIAM5_GO
-Titre "Les pays du monde"
+Titre "Agent de voyage"
 ***
 
-On souhaite crée une application de agent voyage.
-Page accueil: on trouve les destinations(pays).
-Celon destionation choisie cela dirige vers page les hôtels proposé pour ce destination.  
-Hotels: nom, ville, prix, description.
-Pour résérve il faut se connecter sur application.
+On souhaite crée une application de agent de voyage.
+Un fois connecter sur l'application, possibilité choisir la destionation que on suohaite visité depuis liste des destinations proposé.
+Celon destionation choisie cela dirige vers page les hôtels proposés pour cette destination. 
+On choisi le hôtel ensuit on reserve.
 
- 
 
-Page accueil : Liste pays par continent, possibilité de choisir un pays cela redirige page pays
+Page connection/authentication: Utilisateur se connecte ou s'inscrit 
+
+Page accueil : Liste pays a visité proposés par agent de voyage, possibilité de choisir un pays cela redirige page Hôtels
  
-Page pays on a les données sur pays possibilité de modifier ces donnes, ajouter données manquantes.
+Page hôtels on a les données sur pays possibilité de modifier ces donnes, ajouter données manquantele nom de hôtel , adresse, description.
+
+
 
 
 ## EndPoint 
 ***
+
+
 * GET /api/pays 
 
 * GET /api/pays/:id
 
-* POST /api/pays
-
 * POST /api/pays/:id 
+
+* GET /api/hotels
+
+* GET /api/hotel/:id
+
+* POST /api/hotel/:id
+
+* POST /api/user/:id
+
+* DELET /api/hotel/:id
 
 
 ## Authors
