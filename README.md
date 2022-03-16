@@ -22,21 +22,40 @@ Page hôtels on a  nom de hôtel , adresse, description.
 ***
 
 
-* GET /api/pays 
+* GET /api/countrys
 
-* GET /api/pays/:id
+* GET /api/countrys/:id
 
-* POST /api/pays/:id 
+* POST /api/countrys
+
+
 
 * GET /api/hotels
 
 * GET /api/hotel/:id
 
-* POST /api/hotel/:id
+* GET /api/users/hotel/:iduser
 
-* POST /api/user/:id
 
-* DELET /api/hotel/:id
+
+* POST /api/user
+
+* DELET /api/user/:id
+
+* GET /api/users/:id
+
+* GET /api/users
+
+* POST /api/login
+
+
+* GET /api/reservations/:id
+
+* GET /api/reservations/hotels/:idUser
+
+* POST /api/reservations/:idUser/:idHotel
+
+* DELETE /api/reservations/:id
 
 
 ## Authors
