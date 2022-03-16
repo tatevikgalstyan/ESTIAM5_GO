@@ -4,9 +4,9 @@ Titre "Agent de voyage"
 ***
 
 On souhaite crée une application de agent de voyage.
-Un fois connecter sur l'application, possibilité choisir la destionation que on suohaite visité depuis liste des destinations proposé.
-Celon destionation choisie cela dirige vers page les hôtels proposés pour cette destination. 
-On choisi le hôtel ensuit on reserve.
+Un fois connecté sur l'application, il y aura possibiliter de choisir la destionation que vous suohaitez visiter depuis liste des destinations proposés.
+Après le chois de destination vous accèderez vers la page des hôtels proposés pour cette destination. 
+Vous pouvez choisir l'hôtel depuis list de hôtels proposé pour votre destination et ensuit vous pouvez reserver.
 
 
 Page connection/authentication: Utilisateur se connecte ou s'inscrit 
