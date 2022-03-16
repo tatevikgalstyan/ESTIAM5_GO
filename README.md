@@ -28,7 +28,7 @@ Titre "Agent de voyage"
 
 * POST /api/countrys
 
-
+---
 
 * GET /api/hotels
 
@@ -36,7 +36,7 @@ Titre "Agent de voyage"
 
 * GET /api/users/hotel/:iduser
 
-
+---
 
 * POST /api/user
 
@@ -48,6 +48,7 @@ Titre "Agent de voyage"
 
 * POST /api/login
 
+---
 
 * GET /api/reservations/:id
 
