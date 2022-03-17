@@ -3,7 +3,7 @@
 ### Titre "Agence de voyage"
 ***
 
->On souhaite crée une application de agence de voyage.
+>On souhaite crée une application d'agence de voyage.
 >Un fois connecté sur l'application, il y aura possibiliter de choisir la destionation que vous suohaitez visiter depuis liste des destinations proposés.
 >Après le chois de destination vous accèderez vers la page des hôtels proposés pour cette destination. 
 >Vous pouvez choisir l'hôtel depuis list de hôtels proposé pour votre destination et ensuit vous pouvez reserver.
